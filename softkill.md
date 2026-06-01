@@ -2,9 +2,9 @@
 
 Y por cierto, Tania:
 
-fe80::352:ac02:d104:565a%22
-10.50.21.41
-10.50.21.254
+- fe80::352:ac02:d104:565a%22
+- 10.50.21.41
+- 10.50.21.254
 
 ![Fuente](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTIaBxyB_P05MtVnHqwZp0EfROzFqgxUZWug&s)
 
